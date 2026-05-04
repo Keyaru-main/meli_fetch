@@ -468,27 +468,4 @@ melifetch list
 
 این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر فایل [LICENSE](LICENSE) را ببینید.
 
----
 
-## 🙏 تشکر
-
-- [Cobra](https://github.com/spf13/cobra) - CLI framework
-- [Puppeteer](https://pptr.dev/) - Headless browser
-- [GitHub Actions](https://github.com/features/actions) - CI/CD platform
-
----
-
-## 📞 ارتباط
-
-- GitHub Issues: [مشکلات و پیشنهادات](https://github.com/Keyaru-main/melli_pet/issues)
-- Discussions: [بحث و گفتگو](https://github.com/Keyaru-main/melli_pet/discussions)
-
----
-
-<div align="center">
-
-**ساخته شده با ❤️ برای جامعه متن‌باز**
-
-⭐ اگر این پروژه برایتان مفید بود، یک ستاره بدهید!
-
-</div>
